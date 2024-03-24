@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kirolos Adel
+- I am an Electrical Power Engineer Student
+- 👀 I’m interested in Software Engineering Especially Android app development using Flutter
+- 🌱 I’m currently developing myself in flutter development
+- 📫 How to reach me: by Email: kirolosadel34@gmail.com 
